@@ -1,0 +1,149 @@
+#all{
+	width:950px; 
+	height:1506px; 
+	border:1px solid #0000aa; 
+	margin:0 auto;
+}
+
+#thead{
+	width:928px; 
+	height:150px; 
+	border:1px solid blue; 
+	margin:10px 10px;
+}
+
+#tbody{
+	height:1160px; 
+	border:1px solid blue; 
+	margin:0px 10px 10px 10px;
+}
+
+#tfoot{
+	background:#555555; 
+	width:928px;
+	height:150px; 
+	border:1px solid blue; 
+	margin:0px 10px 10px 10px;
+}
+
+#left{
+	height:1160px; 
+	width:550px; 
+	border-right:1px solid blue; 
+	float:left;
+}
+
+#right{
+	height:1160px; 
+	width:371px; 
+	border-left:1px solid blue; 
+	float:right;
+}
+
+#top{
+	height:200px; 
+	border-bottom:1px solid blue; 
+	margin-bottom: 10px;
+}
+
+#center{
+	height:500px;
+    border-top:1px solid blue; 
+    border-bottom:1px solid blue; 
+    margin-bottom:10px;
+}
+
+#bottom{
+	height:436px;
+	border-top:1px solid blue;
+}
+
+#th_top{
+	width:926px;
+	height:113px;
+	border:1px solid blue;
+}
+
+#th_bottom{
+	width:926px;
+	height:33px;
+	background:black;
+	border:1px solid blue;
+}
+
+#title{
+	
+	background:#555555;
+	width:748px;
+	height:111px;
+	border:1px solid blue;
+	float:left;
+}
+
+#denglu{
+	background:#555555;
+	width:174px;
+	height:111px;
+	border:1px solid blue;
+	float:right;
+}
+
+h1{
+	color:white;
+}
+
+li{
+	display:block;
+	float:left;
+    margin:auto 20px; 
+    list-style-type:none;
+    line-height:10px;
+}
+
+a:link{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+}
+a:hover{
+	color:green;
+	font-size: 20px;
+
+}
+a:visited{
+	color:gray;
+	font-size:20px;
+}
+a span{
+	color:white;
+	font-size:15px;
+	
+}
+a span:hover{
+	color:green;
+	font-size:15px;
+}
+label{
+	color:white;
+}
+
+.foot1{
+	float:left;
+	margin:0 70px;
+
+}
+td > span{
+	color:red;
+	font-size: 20px;
+}
+td > a{
+	color:black;
+	font-size: 10px;
+}
+.mkl a{
+	color:white;
+	font-size: 17px;
+}
+.mkl a:hover{
+	color:green;
+}
