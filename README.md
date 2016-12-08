@@ -1,2 +1,8 @@
-# HTML5
-This is about some skills of learning HTML5
+# huicai惠才
+#本网站是一个服务高中生的网站，主要功能包括：
+#高校网站导航
+#择校指南
+#学长分享
+#问答社区
+#课程辅导
+#学辅材料
